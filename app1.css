@@ -26567,10 +26567,10 @@ footer.style-7 .footer-wrapper.two .footer-menu-wrap {
 .list-grid-product-wrap.column-3-wrapper .item {
   width: 33.33%;
 }
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .list-grid-product-wrap.column-3-wrapper .item {
     display: none;
-  }
+  } */
 }
 .list-grid-product-wrap.column-4-wrapper .item {
   width: 25%;
